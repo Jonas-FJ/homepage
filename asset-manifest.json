@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.1752213f.css",
+    "main.js": "/homepage/static/js/main.b1844488.js",
+    "static/media/mathieu-stern-construction-unsplash.jpg": "/homepage/static/media/mathieu-stern-construction-unsplash.dc9658facca1ac04b35c.jpg",
+    "index.html": "/homepage/index.html",
+    "main.1752213f.css.map": "/homepage/static/css/main.1752213f.css.map",
+    "main.b1844488.js.map": "/homepage/static/js/main.b1844488.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1752213f.css",
+    "static/js/main.b1844488.js"
+  ]
+}
