@@ -2,6 +2,8 @@ import { useState } from 'react';
 import './header.css'
 import i18next from 'i18next';
 import { useTranslation } from 'react-i18next';
+import ukFlag from '../assets/standard_storbritannia-flagg.svg';
+import noFlag from '../assets/standard_norges_flagg.svg';
 
 function Header() {
     const [lang, setLang] = useState(i18next.language);
@@ -23,7 +25,7 @@ function Header() {
                 >
                     <p>NO</p>
                     <img
-                        src="src/assets/standard_norges_flagg.svg"
+                        src={noFlag}
                         alt="Norges flagg"
                         height="20"
                     />
@@ -36,7 +38,7 @@ function Header() {
                 >
                     <p>EN</p>
                     <img
-                    src="src/assets/standard_storbritannia-flagg.svg"
+                    src={ukFlag}
                     alt="UK flag"
                     height="20"
                     />
