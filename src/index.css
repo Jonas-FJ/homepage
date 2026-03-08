@@ -1,7 +1,9 @@
-h1, h2 {
-    font-family: "Courier new", Arial, monospace, sans-serif, serif
+h1, h2, p {
+    font-family: "Courier new", Arial, monospace, sans-serif, serif;
+    color: rgb(13,13,13);
 }
 
 body {
-    background-color:  salmon
+    background-color:  salmon;
+    height: 80vh
 }
