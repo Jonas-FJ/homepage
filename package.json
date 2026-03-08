@@ -2,7 +2,7 @@
   "name": "homepage",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://www.jonasfjarestad.no",
+  "homepage": "https://jonas-fj.github.io/homepage/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",

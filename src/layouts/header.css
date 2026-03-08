@@ -1,0 +1,42 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    margin-left: 4em;
+    margin-right: 4em;
+    height: 10vh;
+}
+
+header div {
+    background-color: blue:
+}
+
+img {
+    margin: .5em;
+}
+
+button {
+    background-color: rgba(233,150,122,0);
+    display: flex;
+    align-items: center;
+    border-style: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgba(233,150,122,1);
+}
+
+.buttonItem {
+    display: flex;
+    align-items: center;
+}
+
+.divider {
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+.språk {
+    padding-right:2em;
+}
