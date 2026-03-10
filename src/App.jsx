@@ -11,7 +11,7 @@ function App() {
       <Header />
       <div className="construction">
         <figure>
-          <img src={constructionImg} />
+          <img src={constructionImg} className="constructionImg"/>
           <figcaption> {t("heading.imgtext")} {'\u00A0'}
             <a href="https://unsplash.com/photos/3-men-in-white-and-orange-shirts-and-green-pants-action-figures-tv7GF92ZWvs">
               Unsplash
