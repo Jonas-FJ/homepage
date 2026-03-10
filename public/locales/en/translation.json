@@ -1,5 +1,8 @@
 {
-    "language": "Language: ",
+    "header" : {
+        "language": "Language: ",
+        "colorTheme": "Dark/light theme: "
+    },
     "heading": {
         "imgtext": "Photo by Mathieu Stern ",
         "title": "Under construction",

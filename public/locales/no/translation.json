@@ -1,5 +1,8 @@
 {
-    "language" : "Språk: ",
+    "header" : {
+        "language": "Språk: ",
+        "colorTheme": "Mørk/lys tema: "
+    },
     "heading": {
         "imgtext": "Foto av Mathieu Stern ",
         "title": "Hjemmeside under konstruksjon",

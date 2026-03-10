@@ -1,4 +1,7 @@
-
+figure {
+    font-Style: italic;
+    font-size: 0.8em;
+}
 
 .construction {
     display: flex;
@@ -8,7 +11,18 @@
     height:85vh;
 }
 
-figure {
-    font-Style: italic;
-    font-size: 0.8em;
+.constructionImg {
+    max-width: 100%;
+
 }
+
+@media screen and (max-width:576px) {
+    figure {
+        font-size: 0.5em;
+        margin: 0;
+    }
+    .construction {
+        text-align: center;
+    }
+}
+

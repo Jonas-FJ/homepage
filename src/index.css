@@ -1,9 +1,15 @@
-h1, h2, p {
+:root {
+    --light-bg: salmon;
+    --light-color: darkslategray;
+
+    --dark-bg:#253632;
+    --dark-color: #C2C2C2;
+
     font-family: "Courier new", Arial, monospace, sans-serif, serif;
-    color: rgb(13,13,13);
 }
 
 body {
-    background-color:  salmon;
-    height: 80vh
+    background-color:  light-dark(var(--light-bg), var(--dark-bg));
+    height: 80vh;
+    color: light-dark(var(--light-color), var (--dark-color));
 }
