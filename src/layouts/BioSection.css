@@ -1,0 +1,27 @@
+section {
+    display: flex;
+}
+
+.bio {
+    display: flex;
+    flex-direction: column;
+}
+
+.potrett {
+    height: 30em;
+    padding-left: 8vw;
+}
+
+@media screen and (max-width:576px) {
+    section {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .potrett {
+        height: auto;
+        width: 15em;
+    }
+
+
+}

@@ -2,9 +2,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0;
-    margin-left: 4em;
-    margin-right: 4em;
     height: 10vh;
 }
 
@@ -45,7 +42,7 @@ button:hover {
 
 @media screen and (max-width:576px) {
     p {
-        font-size: 2vw;
+        font-size: 3vw;
     }
     header {
         margin-left: 1em;
