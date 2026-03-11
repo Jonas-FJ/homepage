@@ -3,9 +3,10 @@
         "language": "Language: ",
         "colorTheme": "Dark/light theme: "
     },
-    "heading": {
-        "imgtext": "Photo by Mathieu Stern ",
-        "title": "Under construction",
-        "subtitle": "Coming to a server near you."
+    "bio" : {
+        "content": "My name is Jonas Fjærestad. I am an animator, developer and otherwise quite a nice guy. I have a bachelor's degree in animation from the University Inland Norway where I specialized in environment art and general 3D production. For the final year me and and the group I was a part of  got together and created what I would consider a video game.",
+        "content02": "In newer times I even managed to get a second Bachelor's degree in information technology at OsloMet where I acquired some knowledge in development and programming. For the last semester I had the privilege and pleasure of going abroad to Den Bosch in the Netherlands. There I do part in an exciting multidisciplinary project in the Emerging Technologies Playground program.",
+        "content03": "These days you can also find me at my sole proprietorship where I do everything from animation to web development. "
+
     }
 }

@@ -3,9 +3,10 @@
         "language": "Språk: ",
         "colorTheme": "Mørk/lys tema: "
     },
-    "heading": {
-        "imgtext": "Foto av Mathieu Stern ",
-        "title": "Hjemmeside under konstruksjon",
-        "subtitle": "Kommmer til en server nær deg."
+    "bio" : {
+        "content": "Mitt navn er Jonas Fjærestad. Jeg er en Animatør, utvikler og ellers ganske grei. Jeg har en bachelorgrad i animasjon fra Universitetet i Innlandet der jeg spesialiserte meg innen environment art og generell 3D. Vi holdt på med mangt og meget, blant annet lagde vi spill til bachelore oppgaven.",
+        "content02": "I nyere tider har jeg tatt en bachelor i Informasjonsteknologi på OsloMet hvor jeg tilnærmet meg kunnskap innen utvikling og programmering. Det siste semester jeg hadde gleden av å kunne utveksle til Den Bosch i Nederland. Der tok jeg del i et spennende tverrfaglig prosjekt på Emergin Technologies Playground programmet.",
+        "content03": "Ellers så finner du meg via mitt enkelpersonforetak der jeg driver med alt fra animasjon til webutvikling."
+
     }
 }

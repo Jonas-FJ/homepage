@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showguides="false"
+     inkscape:zoom="16"
+     inkscape:cx="-1.9375"
+     inkscape:cy="6.15625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#2e1714;stroke-width:4.576;stroke-linecap:square;fill-opacity:1"
+       id="path2"
+       cx="8"
+       cy="8"
+       r="8" />
+    <g
+       id="g4"
+       transform="matrix(0.84046353,0,0,0.84046353,0.67473182,0.46130535)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0791px;line-height:1;font-family:msbm10;-inkscape-font-specification:msbm10;text-align:start;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffe3e0;fill-opacity:1;stroke:none;stroke-width:0.807388;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         x="1.9131519"
+         y="13.26285"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="1.9131519"
+           y="13.26285"
+           style="stroke-width:0.807388">J</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0791px;line-height:1;font-family:msbm10;-inkscape-font-specification:msbm10;text-align:start;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffe3e0;fill-opacity:1;stroke:none;stroke-width:0.807388;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1"
+         x="6.5138535"
+         y="13.26285"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="6.5138535"
+           y="13.26285"
+           style="stroke-width:0.807388">F</tspan></text>
+    </g>
+  </g>
+</svg>

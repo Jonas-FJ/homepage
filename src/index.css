@@ -1,15 +1,15 @@
 :root {
     --light-bg: salmon;
-    --light-color: darkslategray;
+    --light-color: #212529;
 
-    --dark-bg:#253632;
-    --dark-color: #C2C2C2;
+    --dark-bg:#191d32;
+    --dark-color: #fcd5ce;
 
     font-family: "Courier new", Arial, monospace, sans-serif, serif;
 }
 
 body {
     background-color:  light-dark(var(--light-bg), var(--dark-bg));
-    height: 80vh;
     color: light-dark(var(--light-color), var (--dark-color));
+    margin: 4vw;
 }
