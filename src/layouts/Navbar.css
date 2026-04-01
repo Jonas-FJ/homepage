@@ -1,15 +1,17 @@
 nav {
     display: flex;
-    background-color: #282f44;
+    gap: 1em;
+    background-color: light-dark(#F96757,#282f44);
     margin-top: 2vh;
 }
 a {
     padding: .5em;
     text-decoration:none;
-    font-weight: bolder;
+    color: light-dark(#212529, #fcd5ce);
+
 }
 
 a.active, a:hover {
     border-radius: 10%;
-    background-color: #453a49;
+    background-color: light-dark(#F8513E, #453a49);
 }

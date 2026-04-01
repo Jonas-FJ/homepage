@@ -15,9 +15,9 @@ function BioSection() {
             </div>
 
             <img
-            src={potrett}
-            alt={t("bio.potrettImgAlt")}
-            className="potrett"
+                src={potrett}
+                alt={t("bio.potrettImgAlt")}
+                className="potrett"
             />
         </section>
     )

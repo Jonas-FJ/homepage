@@ -49,7 +49,7 @@ function Header() {
                 >
                 <img
                     src={iconUrl}
-                    alt="sun Icon"
+                    alt=""
                     className="icons"
                 />
                 </button>
@@ -59,12 +59,13 @@ function Header() {
                 <p className="språk"> {t("header.language")} </p>
                 <button
                     type="button"
+                    aria-label="Norsk språk"
                     onClick={() => handleLanguageChange("no")}
                 >
                     <p>NO</p>
                     <img
                         src={noFlag}
-                        alt="Norges flagg"
+                        alt=""
                         className="icons"
                     />
                 </button>
@@ -72,6 +73,7 @@ function Header() {
 
                 <button
                 type="button"
+                aria-label="English language"
                 onClick={()=> handleLanguageChange("en")}
                 >
                     <p>EN</p>

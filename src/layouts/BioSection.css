@@ -1,5 +1,6 @@
 section {
     display: flex;
+    margin-top: 2vw;
 }
 
 .bio {
@@ -9,7 +10,8 @@ section {
 
 .potrett {
     height: 30em;
-    padding-left: 8vw;
+    padding-left: 10vw;
+    margin-right: 4vw;
 }
 
 @media screen and (max-width:576px) {
