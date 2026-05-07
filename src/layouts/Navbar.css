@@ -1,13 +1,13 @@
 nav {
     display: flex;
     gap: 1em;
-    background-color: light-dark(#F96757,#282f44);
+    background-color: light-dark(#FA8072,#282f44);
     margin-top: 2vh;
 }
 a {
     padding: .5em;
     text-decoration:none;
-    color: light-dark(#212529, #fcd5ce);
+    color: light-dark(black, #fcd5ce);
 
 }
 

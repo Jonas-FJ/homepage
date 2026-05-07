@@ -1,11 +1,11 @@
 :root {
-    --light-bg: #A0A6C0;
-    --light-color: #212529;
+    --light-bg: #FDF5E6;
+    --light-color: black;
 
-    --dark-bg:#191d32;
+    --dark-bg:#010B13;
     --dark-color: #fcd5ce;
 
-    font-family: "Courier new", Arial, monospace, sans-serif, serif;
+    font-family: Arial, monospace, sans-serif, serif;
 }
 
 

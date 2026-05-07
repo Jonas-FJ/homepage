@@ -12,8 +12,17 @@
     "etp" : {
         "link": "ETP",
         "heading": "Emerging Technologies Playground prosjekt semester",
-        "description": "På mitt siste IT semester utveklset jeg til Den Bosch i Nederland og var med på et spennende prosjekt som en del av Emergin Technologies Playground faget"
-
+        "description": "På mitt siste IT semester utvekslet jeg til Den Bosch i Nederland og var med på et spennende prosjekt som en del av Emergin Technologies Playground faget. Gjennom vår semesteret jobbet jeg i et tverrfaglig team fra forskjellige studier og land.",
+        "content01": "Prosjektet besto av to vidt forskjellige oppdrag: Et oppdrag knyttet til helse sektoren med fokus på å få pasienter med demens til å kunne bo hjemme lengst mulig ved hjelp av teknologi. Og et oppdrag i samarbeid med den lokale kunstneren Matthijs Bosman som handlet om å knytte folk sammen med teknologi.",
+        "link02": "LinkedIn post",
+        "heading02": "Living at home longer and safer",
+        "content02":  "I dette prosjektet lagde vi en interactiv klokke som bruker aktiviteter i stedenfor tid. Hver aktivitet aktiveres ved hjelp av lyd og lys etter en bestemt tid på døgnet. Pasienten kan trykke på en haptisk knapp for å få videre informasjon. <br/> Konstruksjon Arduino, ESP32, 3d printet og laser kuttet materialer.",
+        "heading03": "O.R.A.C.L.E",
+        "content03": "I dette prosjektet lagde vi en utstilling for det offentlig rom. Utstillingen består av et spesiallaget bur og fugler. Folk kan komme å snakke med fuglene som er styrt av generativ KI. Hvis ingen snakker med fuglene, har de selv en samtale seg i mellom.",
+        "link03": "LinedIn Post",
+        "heading04": "Bilder fra semesteret",
+        "imgGroupAlt": "Bilde av hele klassen under fremvisning på siste expo ",
+        "imgGroupCaption": "Klassebilde på siste expo visning"
     },
     "timeline" : {
         "link": "Tidslinje",

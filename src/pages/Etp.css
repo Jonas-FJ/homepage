@@ -1,0 +1,24 @@
+.etpImg {
+    width: 100%;
+    max-width: 100em;
+    height: auto;
+}
+.etpFigure {
+    padding-left: 5vw;
+}
+
+.etpArticle {
+     background-color:  light-dark(BlanchedAlmond, black);
+     padding-left: 5vw;
+     padding-right: 4vw;
+     padding-top: 2vh;
+}
+
+.container {
+    display: flex;
+}
+
+.item {
+
+}
+
