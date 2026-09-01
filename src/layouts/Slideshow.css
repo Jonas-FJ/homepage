@@ -1,0 +1,53 @@
+.slideshowSection {
+    display: grid;
+    grid-template:
+        "buttonPrevious popout buttonNext" 90%
+        "caption caption caption" 10%
+        "icons icons icons" auto
+        / 10% 80% 10%;
+}
+
+.buttonPrevious {
+    grid-area:buttonPrevious;
+}
+.buttonNext {
+    grid-area: buttonNext;
+}
+
+.arrow {
+    justify-content: center;
+    height: 100%;
+}
+
+.popout {
+    grid-area: popout;
+    background-color: black;
+    height: 100%;
+    overflow: hidden;
+}
+.caption {
+    grid-area: caption;
+    text-align: center;
+    width: 100%;
+    height: 20px;
+    margin: 0;
+    padding-bottom: 1%;
+    padding-top: 0.5%;
+    background-color: ;
+}
+
+.slideshowIcons {
+    grid-area: icons;
+    background-color: green;
+}
+
+.mainImg {
+    width: auto;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+.next {
+    transform:scaleX(-1);
+}

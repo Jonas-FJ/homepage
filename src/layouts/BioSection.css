@@ -1,20 +1,40 @@
-section {
+.bioSection {
     display: flex;
     margin-top: 2vw;
+    align-items: flex-start;
+    gap: 2vh;
 }
 
 .bio {
     display: flex;
     flex-direction: column;
+    flex: 1 1 0%;
+    min-width: 0;
 }
 
+.bio h1 {
+    margin-bottom: 0;
+}
 .potrett {
-    height: 30em;
-    padding-left: 10vw;
     margin-right: 4vw;
+    flex: 0 0 auto;
+    height: 50vh;
+    max-width: 35vw;
+    object-fit: contain;
 }
 
-@media screen and (max-width:576px) {
+.bioAdress {
+    margin-top: 1vh;
+    width: fit-content;
+    padding: 1em;
+    background-color:  light-dark(#f7ede2, #031E35);
+    white-space: pre-line;
+    line-height: 1.8;
+    border-radius: 1em;
+}
+
+
+@media screen and (max-width:600px) {
     section {
         flex-direction: column-reverse;
         align-items: center;
@@ -25,5 +45,17 @@ section {
         width: 15em;
     }
 
+}
+
+@media screen and (max-width:800px) {
+    .bioSection {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .potrett {
+        margin-right: 1vw;
+        height: auto;
+    }
 
 }

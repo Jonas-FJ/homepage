@@ -1,0 +1,32 @@
+.homeSection {
+    display: flex;
+    gap: 3vw;
+}
+
+.homeSection img {
+    max-height: 20vh;
+    max-width: 20vw;
+}
+
+.homeItem {
+    display: flex;
+    text-align: center;
+    width: 30vh;
+    height: 30vh;
+    background-color:  light-dark(white, #031E35);
+    border-radius: 1em;
+}
+
+.homeItem a {
+    width: 100%;
+}
+
+@media screen and (max-width:576px) {
+    .homeSection {
+        flex-direction: column;
+    }
+    .homeItem {
+        width: 100%;
+        height: auto;
+    }
+}

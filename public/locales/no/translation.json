@@ -5,9 +5,14 @@
     },
     "bio" : {
         "content": "Mitt navn er Jonas Fjærestad. Jeg er en Animatør, utvikler og ellers ganske grei. Jeg har en bachelorgrad i animasjon fra Universitetet i Innlandet der jeg spesialiserte meg innen environment art og generell 3D. Vi holdt på med mangt og meget, blant annet lagde vi spill til bachelore oppgaven.",
-        "content02": "I nyere tider har jeg tatt en bachelor i Informasjonsteknologi på OsloMet hvor jeg tilnærmet meg kunnskap innen utvikling og programmering. Det siste semester jeg hadde gleden av å kunne utveksle til Den Bosch i Nederland. Der tok jeg del i et spennende tverrfaglig prosjekt på Emergin Technologies Playground programmet.",
-        "content03": "Ellers så finner du meg via mitt enkelpersonforetak der jeg driver med alt fra animasjon til webutvikling.",
-        "potrettImgAlt" : "Potrett bilde av meg."
+        "content02": "I nyere tider har jeg gjennomført en bachelor i Informasjonsteknologi ved OsloMet, hvor jeg tilegnet meg solid kunnskap innen webutvikling og programmering. I mitt siste semester hadde jeg muligheten til å gjennomføre en utveksling til Den Bosch i Nederland ved høgskolen Avans, hvor jeg deltok i et spennende tverrfaglig prosjekt gjennom Emergin Technologies Playground programmet.",
+        "content03": "Ellers så finner du meg via mitt enkelpersonforetak der jeg driver med alt fra animasjon til webutvikling. Jeg har blant annet laget hjulpet å sette opp blogger via wordpress og nettbutikk via Shopify",
+        "potrettImgAlt" : "Potrett bilde av meg.",
+        "contact": "Freelance 3D animatør/generalist og web-utvikler\nKontakt: ",
+        "email": "jonas.fjarestad@gmail.com \n",
+        "address": "Fjærestad animasjon og digitale løsninger\nOrgnr: 936952240"
+
+
     },
     "etp" : {
         "link": "ETP",
@@ -16,13 +21,26 @@
         "content01": "Prosjektet besto av to vidt forskjellige oppdrag: Et oppdrag knyttet til helse sektoren med fokus på å få pasienter med demens til å kunne bo hjemme lengst mulig ved hjelp av teknologi. Og et oppdrag i samarbeid med den lokale kunstneren Matthijs Bosman som handlet om å knytte folk sammen med teknologi.",
         "link02": "LinkedIn post",
         "heading02": "Living at home longer and safer",
-        "content02":  "I dette prosjektet lagde vi en interactiv klokke som bruker aktiviteter i stedenfor tid. Hver aktivitet aktiveres ved hjelp av lyd og lys etter en bestemt tid på døgnet. Pasienten kan trykke på en haptisk knapp for å få videre informasjon. <br/> Konstruksjon Arduino, ESP32, 3d printet og laser kuttet materialer.",
+        "content02":  "I dette prosjektet lagde vi en interaktiv klokke som bruker aktiviteter i stedenfor tid. Hver aktivitet aktiveres ved hjelp av lyd og lys etter en bestemt tid på døgnet. Pasienten kan trykke på en haptisk knapp for å få videre informasjon. Klokken er konstruert med bruk av Arduino, ESP32, 3d printet og laser kuttet materialer.",
         "heading03": "O.R.A.C.L.E",
         "content03": "I dette prosjektet lagde vi en utstilling for det offentlig rom. Utstillingen består av et spesiallaget bur og fugler. Folk kan komme å snakke med fuglene som er styrt av generativ KI. Hvis ingen snakker med fuglene, har de selv en samtale seg i mellom.",
         "link03": "LinedIn Post",
         "heading04": "Bilder fra semesteret",
         "imgGroupAlt": "Bilde av hele klassen under fremvisning på siste expo ",
-        "imgGroupCaption": "Klassebilde på siste expo visning"
+        "imgGroupCaption": "Klassebilde på siste expo visning",
+        "imgClockAlt": "Bilde av klokken mot slutten av prosjektet",
+        "imgClockCaption": "Bilde av aktivitets klokken",
+        "imgBirdcageAlt": "Fulgeburde på visning i det offentlig",
+        "imgBirdcageCaption": "Fugleburdet vises frem i det offentlige",
+        "imgBirdCloseAlt": "Nærbilde av den ene fugelen",
+        "imgBirdCloseCaption": "Nærbilde av den ene fuglene. Den er 3D printet med fjær som er limt på. På brystet er det festet en høytaler som spiller av KI samtale.",
+        "imgAssemblyAlt": "Burdet under konstruksjon",
+        "imgAssemblyCaption": "Burdet under konstruksjon",
+        "imgExpoAlt": "Bilde av meg under Slim Samenleven sitt event",
+        "imgExpoCaption": "Våres stand under Slim Samenleven sitt event"
+    },
+    "animation" : {
+        "link": "Animasjon, 3D viz, spilldesign"
     },
     "timeline" : {
         "link": "Tidslinje",

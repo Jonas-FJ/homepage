@@ -20,6 +20,15 @@ hr {
 
 }
 
+.contentSection {
+    background-color:  light-dark(#f7ede2, black);
+    padding-left: 5vw;
+    padding-right: 4vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    margin-bottom: 5vh;
+}
+
 @media screen and (max-width:576px) {
     figure {
         font-size: 0.5em;

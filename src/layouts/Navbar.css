@@ -1,9 +1,13 @@
 nav {
     display: flex;
     gap: 1em;
-    background-color: light-dark(#FA8072,#282f44);
+    background-color: light-dark(#FF9966,#282f44);
     margin-top: 2vh;
+    padding: 0.5%;
+    position: sticky;
+    top: 0;
 }
+
 a {
     padding: .5em;
     text-decoration:none;
@@ -12,6 +16,14 @@ a {
 }
 
 a.active, a:hover {
-    border-radius: 10%;
-    background-color: light-dark(#F8513E, #453a49);
+    border-radius: 1em;
+    background-color: light-dark(#FF661A, rgba(47,79,79,1));
+}
+
+@media screen and (max-width:576px) {
+    nav{
+        text-align: center;
+        flex-direction: column;
+        gap: 0;
+    }
 }

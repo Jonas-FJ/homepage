@@ -4,18 +4,44 @@
         "colorTheme": "Dark/light theme: "
     },
     "bio" : {
-        "content": "My name is Jonas Fjærestad. I am an animator, developer and otherwise quite a nice guy. I have a bachelor's degree in animation from the University Inland Norway where I specialized in environment art and general 3D production. For the final year me and and the group I was a part of  got together and created what I would consider a video game.",
-        "content02": "In newer times I even managed to get a second Bachelor's degree in information technology at OsloMet where I acquired some knowledge in development and programming. For the last semester I had the privilege and pleasure of going abroad to Den Bosch in the Netherlands. There I do part in an exciting multidisciplinary project in the Emerging Technologies Playground program.",
-        "content03": "These days you can also find me at my sole proprietorship where I do everything from animation to web development. ",
-        "potrettImgAlt" : "Portrait image of me."
-
+         "content": "My name is Jonas Fjærestad. I am an animator, developer and otherwise quite a nice guy. I have a bachelor's degree in animation from the University Inland Norway where I specialized in environment art and general 3D production. For the final year I was a part of a group that created a video game for the final bachelor thesis.",
+        "content02": "In newer times I even managed to get a second Bachelor's degree in information technology at OsloMet where I acquired some knowledge in development and programming. For the last semester I had the privilege and pleasure of going abroad to Den Bosch in the Netherlands. There I took part in an exciting multidisciplinary project in the Emerging Technologies Playground program.",
+        "content03": "These days you can also find me as a freelancer where I do everything from animation to web development. I have for instance helped set up a blog with wordpress and an online store with shopify.",
+        "potrettImgAlt" : "Portrait image of me.",
+        "contact": "Freelance 3D animator/generalist and web-developer\nContact:",
+        "email": "jonas.fjarestad@gmail.com\n",
+        "address": "Fjærestad animasjon og digitale løsninger\nOrgnr: 936952240"
     },
     "etp" : {
         "link": "ETP",
         "heading": "Emerging Technologies Playground project semester",
-        "description": "On my last semester at OsloMet I went on an exchange program to den Bosch in the Netherlands. There I took part in an exiting project as part of the Emergin Technologies Playground course"
+        "description": "In my last semester at OsloMet I went on an exchange program to den Bosch in the Netherlands. There I took part in an exciting project as part of the Emerging Technologies Playground course. During the spring semester I worked in a multidisciplinary team with students from all around the world, and different studies.",
+        "content01": "The project was split into two widely different assignments: One assignment for the health sector with focus on patients with dementia, and how to help them live at home longer and safer with the use of modern technology. And one assignment working together with a local artist called Matthijs Bosman where we worked on connecting people with the help of technology.",
+        "link02": "linkedIn post",
+        "heading02": "Living at home longer and safer",
+        "content02": "In this assignment we created an interactive clock that uses activities instead of time. Every activity is activated with both sound and light, that's determined by the time of day. The patient can then push a haptic button for more information about the activity. The clock is constructed with the use if Arduino, RaspberryPim ESP32, 3d printing and laser cutting.",
+        "heading03": "O.R.A.C.L.E",
+        "content03": "In this assignment we created a public display. The display contained a custom made cage and birds. The public could talk to the birds that would answer them with the use of generative AI. If no one talked to the birds they would talk to them self with a pre made prompt.",
+        "link03": "LinedIn Post",
+        "heading04": "Photos from the semester",
+        "imgGroupAlt": "Photo of the whole class from the last expo showcase",
+        "imgGroupCaption": "Photo of the whole class from the last expo showcase",
+        "imgClockAlt": "Photo of the clock at the towards of the semester",
+        "imgClockCaption": "Photo of the activity clock",
+        "imgBirdcageAlt": "Photo of the birdcage at the public showcase",
+        "imgBirdcageCaption": "Photo from the public showcase",
+        "imgBirdCloseAlt": "Photo of one of the birds in the cage",
+        "imgBirdCloseCaption": "One of the birds. The base is 3dPrinted with feathers glued on top and the speaker fastened on its chest",
+        "imgAssemblyAlt": "Photo of me constructing the part of the cage.",
+        "imgAssemblyCaption": "Here I am constructing the base of the cage.",
+        "imgExpoAlt": "Photo of me during the Slim Samenleven’s event",
+        "imgExpoCaption": "Our stand during the Slim Samenleven’s event"
 
     },
+    "animation" : {
+        "link": "Animation, 3D viz, game design"
+    },
+
     "timeline" : {
         "link": "Timeline",
         "heading": "My timeline",
